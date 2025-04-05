@@ -24,6 +24,7 @@
 </div>
 
 > This is a fully Vibe coded project with a combination of tools like Augment and Roocode with Gemini 2.5 based on [Matsu Theme](https://matsu-theme.vercel.app/) shadcn theme.
+> Work in progress :)
 
 ## 🌟 Overview
 

@@ -5,3 +5,6 @@ const nextConfig: NextConfig = {
 };
 
 export default nextConfig;
+
+// This doesn't actually set the port in next.config.ts
+// Port is set in package.json scripts

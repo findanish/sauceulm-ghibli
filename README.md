@@ -1,10 +1,64 @@
 # SauceULM_ Admin Dashboard
 
+<div align="center">
+  <img src="public/screenshots/dashboard-preview.png" alt="SauceULM Dashboard Preview" width="800px" />
+  <p><em>SauceULM_ Admin Dashboard with Matsu Theme</em></p>
+
+  <p>
+    <a href="https://nextjs.org">
+      <img src="https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js" alt="Next.js" />
+    </a>
+    <a href="https://ui.shadcn.com">
+      <img src="https://img.shields.io/badge/shadcn/ui-latest-black?style=flat-square" alt="shadcn/ui" />
+    </a>
+    <a href="https://matsu-theme.vercel.app">
+      <img src="https://img.shields.io/badge/Theme-Matsu-beige?style=flat-square" alt="Matsu Theme" />
+    </a>
+    <a href="https://tailwindcss.com">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-3-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    </a>
+    <a href="https://www.typescriptlang.org">
+      <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    </a>
+  </p>
+</div>
+
 > This is a fully Vibe coded project with a combination of tools like Augment and Roocode with Gemini 2.5 based on [Matsu Theme](https://matsu-theme.vercel.app/) shadcn theme.
 
 ## 🌟 Overview
 
 SauceULM_ is an elegant admin dashboard built with Next.js and Shadcn UI components, featuring the beautiful Matsu theme. This dashboard provides a comprehensive interface for managing Okta, Slack, and Google Workspace services, along with additional functionality for audit logs, offboarding, and reporting.
+
+## 📺 Demo
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="public/screenshots/okta-view.png" alt="Okta Management" width="400px" />
+        <br />
+        <em>Okta User Management</em>
+      </td>
+      <td align="center">
+        <img src="public/screenshots/slack-view.png" alt="Slack Management" width="400px" />
+        <br />
+        <em>Slack Workspace Management</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="public/screenshots/google-view.png" alt="Google Workspace" width="400px" />
+        <br />
+        <em>Google Workspace Management</em>
+      </td>
+      <td align="center">
+        <img src="public/screenshots/audit-logs.png" alt="Audit Logs" width="400px" />
+        <br />
+        <em>Audit Logs & Reporting</em>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## ✨ Features
 

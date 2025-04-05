@@ -1,7 +1,7 @@
 # SauceULM_ Admin Dashboard
 
 <div align="center">
-  <img src="public/screenshots/dashboard-preview.png" alt="SauceULM Dashboard Preview" width="800px" />
+  <img src="./public/screenshots/dashboard-preview.png" alt="SauceULM Dashboard Preview" width="800px" />
   <p><em>SauceULM_ Admin Dashboard with Matsu Theme</em></p>
 
   <p>
@@ -35,24 +35,24 @@ SauceULM_ is an elegant admin dashboard built with Next.js and Shadcn UI compone
   <table>
     <tr>
       <td align="center">
-        <img src="public/screenshots/okta-view.png" alt="Okta Management" width="400px" />
+        <img src="./public/screenshots/okta-view.png" alt="Okta Management" width="400px" />
         <br />
         <em>Okta User Management</em>
       </td>
       <td align="center">
-        <img src="public/screenshots/slack-view.png" alt="Slack Management" width="400px" />
+        <img src="./public/screenshots/slack-view.png" alt="Slack Management" width="400px" />
         <br />
         <em>Slack Workspace Management</em>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="public/screenshots/google-view.png" alt="Google Workspace" width="400px" />
+        <img src="./public/screenshots/google-view.png" alt="Google Workspace" width="400px" />
         <br />
         <em>Google Workspace Management</em>
       </td>
       <td align="center">
-        <img src="public/screenshots/audit-logs.png" alt="Audit Logs" width="400px" />
+        <img src="./public/screenshots/audit-logs.png" alt="Audit Logs" width="400px" />
         <br />
         <em>Audit Logs & Reporting</em>
       </td>
